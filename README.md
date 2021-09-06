@@ -8,5 +8,5 @@ The report can be accessed [here](https://github.com/Jonashellevang/IE_MBD_2020/
 * [Exercise 1 - Cats vs. Dogs](https://github.com/rbgsng/ML.CNN/blob/main/CNN%20Cats_vs_Dogs%20Exercise%201.ipynb)
 * [Exercise 2 - Cats vs. Dogs](https://github.com/rbgsng/ML.CNN/blob/main/CNN%20Cats_vs_Dogs%20Exercise%202.ipynb)
 * [Exercise 3 - Cats vs. Dogs](https://github.com/rbgsng/ML.CNN/blob/main/CNN%20Cats_vs_Dogs%20Exercise%203.ipynb)
-* [Exercise 3 - Flowers](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/CNN%20(Tensorflow%2CKeras)/CNN%20Flowers%20Exercise%203.ipynb)
+* [Exercise 3 - Flowers](https://github.com/rbgsng/ML.CNN/blob/main/CNN%20Flowers%20Exercise%203.ipynb)
 
